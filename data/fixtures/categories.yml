@@ -1,0 +1,15 @@
+StackappCategory:
+  internship:
+    name: Internships
+
+  learnership:
+    name: Learnerships
+
+  bursary:
+    name: Bursaries
+
+  startup_jobs:
+    name: Start-up Jobs
+
+  vacation_work:
+    name: Vacation Work
