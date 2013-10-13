@@ -1,4 +1,6 @@
-stackapp_mxit
+#stackapp on mxit platform
 =============
 
-stackapp integrated with mxit
+stackapp integrated with mxit. The screenshots are available here: http://mxit.stackapp.co.za/images/
+
+The app is running Symfony 1.4, PHP ,Mysql(ORM) and Swiftmailer to handle the emails. 
